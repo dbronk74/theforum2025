@@ -1,0 +1,1 @@
+export default function App() { return <div className='text-center text-xl p-10'>Welcome to The Forum: Arena & Gauntlet</div>; }
