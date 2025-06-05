@@ -1,0 +1,1 @@
+/* OracleFaithBackground component */

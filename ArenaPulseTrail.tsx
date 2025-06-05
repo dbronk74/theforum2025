@@ -1,0 +1,1 @@
+// Pulse trail visualization in Arena

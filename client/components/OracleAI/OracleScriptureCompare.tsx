@@ -1,0 +1,1 @@
+/* OracleScriptureCompare component */

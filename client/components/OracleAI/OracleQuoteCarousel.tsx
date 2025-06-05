@@ -1,0 +1,1 @@
+/* OracleQuoteCarousel component */

@@ -1,0 +1,1 @@
+// Real-time heatmap of audience engagement

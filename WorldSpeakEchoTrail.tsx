@@ -1,0 +1,1 @@
+// Visual trail for audience echo activity

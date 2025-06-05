@@ -1,0 +1,1 @@
+// Flare effect for speaker momentum

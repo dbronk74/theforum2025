@@ -1,0 +1,1 @@
+// Legend for sentiment overlay colors

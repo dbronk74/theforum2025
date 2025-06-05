@@ -1,0 +1,1 @@
+// Ceremony for bonding faction members

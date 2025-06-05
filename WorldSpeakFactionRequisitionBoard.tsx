@@ -1,0 +1,1 @@
+// Board for faction resource requests

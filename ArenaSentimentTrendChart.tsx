@@ -1,0 +1,1 @@
+// Chart showing sentiment trends over time

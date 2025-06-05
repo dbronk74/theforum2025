@@ -1,0 +1,1 @@
+// Glow effect for legacy badges

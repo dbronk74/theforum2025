@@ -1,0 +1,1 @@
+// Editor for lore echoes

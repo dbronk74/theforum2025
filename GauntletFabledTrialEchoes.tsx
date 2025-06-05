@@ -1,0 +1,1 @@
+// Echo effects for fabled trial highlights

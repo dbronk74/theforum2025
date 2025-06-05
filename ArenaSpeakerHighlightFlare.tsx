@@ -1,0 +1,1 @@
+// Visual flare when speaker gains focus

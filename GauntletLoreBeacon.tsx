@@ -1,0 +1,1 @@
+// Beacon showing lore influence in debate

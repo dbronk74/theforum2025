@@ -1,0 +1,1 @@
+// Aura effect for faction trials

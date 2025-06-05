@@ -1,0 +1,1 @@
+// Leaderboard for legacy wall
