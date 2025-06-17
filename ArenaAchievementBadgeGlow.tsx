@@ -1,0 +1,1 @@
+// Glowing effect for achievement badges

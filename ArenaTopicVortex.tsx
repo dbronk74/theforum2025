@@ -1,0 +1,1 @@
+// Visual effect showing active topics swirling

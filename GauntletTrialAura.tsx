@@ -1,0 +1,1 @@
+// Aura effects for trial events

@@ -1,0 +1,1 @@
+// Canvas animation for emotional pulses

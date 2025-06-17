@@ -1,0 +1,1 @@
+// Visual pillar monument for echoes

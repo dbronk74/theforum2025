@@ -1,0 +1,1 @@
+/* OracleVerseSanctifier component */

@@ -1,0 +1,1 @@
+// Overlay showing audience reaction waves

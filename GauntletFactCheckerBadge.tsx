@@ -1,0 +1,1 @@
+// Badge showing fact-check status for speakers

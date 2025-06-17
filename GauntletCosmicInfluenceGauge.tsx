@@ -1,0 +1,1 @@
+// Gauge showing cosmic influence in debates

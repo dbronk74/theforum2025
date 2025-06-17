@@ -1,0 +1,1 @@
+/* OracleScriptureEcho component */

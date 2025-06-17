@@ -1,0 +1,1 @@
+// Mosaic visual for faction echoes

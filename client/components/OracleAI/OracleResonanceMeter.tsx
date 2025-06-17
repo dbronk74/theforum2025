@@ -1,0 +1,1 @@
+/* OracleResonanceMeter component */

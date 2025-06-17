@@ -1,0 +1,1 @@
+// Spectral advisor for factions

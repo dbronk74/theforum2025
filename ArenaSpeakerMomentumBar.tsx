@@ -1,0 +1,1 @@
+// Visual bar showing momentum of current speaker

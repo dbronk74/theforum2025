@@ -1,0 +1,1 @@
+// Component for trial note taking in Arena

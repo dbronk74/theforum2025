@@ -1,0 +1,1 @@
+/* OracleTranslationTonePanel component */

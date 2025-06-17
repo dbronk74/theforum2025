@@ -1,0 +1,1 @@
+// Mythic bonding mechanics for relics

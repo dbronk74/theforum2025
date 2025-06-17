@@ -1,0 +1,1 @@
+// Ripple visualization for language impact
